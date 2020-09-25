@@ -38,9 +38,9 @@ body {
 </div>
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <div class="card col-sm-2">
-  <h5 class="card-body h6">Informations:</h5>
+  <h5 class="card-body h6">Infos:</h5>
   <div class="card-body">
-  	<span>Status:</span><span class="badge badge-secondary"> Aguardando o comando.</span>
+  	<span>Status:</span><span class="badge badge-secondary">ONLINE</span>
 <div class="md-form">
 	<span>Aprovadas:</span>&nbsp<span id="cLive" class="badge badge-success">0</span>
 	<span>Reprovadas:</span>&nbsp<span id="cDie" class="badge badge-danger"> 0</span>
